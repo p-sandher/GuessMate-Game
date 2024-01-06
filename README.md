@@ -93,10 +93,9 @@ ReadME template is from
 [linkedin-url]: https://www.linkedin.com/in/puneet-sandher/
 [interface-screenshot]: guessmate-sample.jpeg
 
-
-[ReactNative]: https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
-[ReactNative-url]: https://reactnative.dev
 [React]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 [React-url]: https://react.dev
 [Expo]: https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37
 [Expo-url]: https://expo.dev
+[ReactNative]: https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[ReactNative-url]: https://reactnative.dev/
