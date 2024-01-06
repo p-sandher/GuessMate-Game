@@ -34,7 +34,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/p-sandher/Molecule-Visualizer"><strong>Explore the Repo »</strong></a>
+    <a href="https://github.com/p-sandher/GuessMate-Game"><strong>Explore the Repo »</strong></a>
     <br />
     <br />
     <a href="https://p-sandher.github.io/puneet-sandher-website/">View Website</a>
@@ -47,13 +47,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Introducing my molecule visualizer project, a full-stack application designed to revolutionize molecular visualization. With the ability to rotate molecules along the x, y, and z axes at customizable degrees, this platform employs a seamless web interface for uploading CDF files. In the backend, C files handle the storage, retrieval, and sorting of atoms and bonds, while Python efficiently parses CDF files, storing the data in a MySQL database. The application then dynamically generates SVG files, providing an interactive and visually engaging representation of the molecular structures. Elevate your molecular exploration with this comprehensive and user-friendly tool.
+In this React Native and Expo-based project, I implemented a number-guessing game where users choose a number, and the application intelligently guides them to the correct answer. Leveraging React Native components, I employed state management to track the user's selected number and dynamically adjust the displayed content based on whether their guess is higher or lower than the actual number. The app utilizes conditional rendering to present feedback messages, providing an interactive and engaging user experience. The logic behind the game involves efficient algorithms for narrowing down the possible range of numbers and updating the UI accordingly. Additionally, the project showcases the seamless integration of React Native and Expo for cross-platform mobile development.
 
 ### Built With
 
-* [![ReactNative][ReactNative]][ReactNative-url]
-* [![React][React]][React-url]
-* [![Expo][Expo]][Expo-url]
+* ![ReactNative](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,6 +91,8 @@ ReadME template is from
 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-f75c7e.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/puneet-sandher/
+[interface-screenshot]: guessmate-sample.jpeg
+
 
 [React]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 [React-url]: https://react.dev
@@ -100,4 +102,3 @@ ReadME template is from
 [ReactNative-url]: https://reactnative.dev/
 
 
-[interface-screenshot]: guessmate-sample.jpeg
