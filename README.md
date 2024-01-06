@@ -71,8 +71,16 @@ Make sure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/your-repo.git
-   '''
+   git clone https://github.com/p-sandher/GuessMate-Game.git
+   ```
+2.  Install dependencies
+```
+npm install
+```
+3. Start the Expo Development
+```
+npm start
+```
 
 
 ## Example
