@@ -52,7 +52,7 @@ Introducing my molecule visualizer project, a full-stack application designed to
 ### Built With
 
 * [![ReactNative][ReactNative]][ReactNative-url]
-* [![React][React]][React-url]
+* [![ReactNative][ReactNative]][ReactNative-url]
 * [![Expo][Expo]][Expo-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -95,8 +95,8 @@ ReadME template is from
 
 
 [ReactNative]: https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
-[ReactNative-url]: https://reactnative.dev/
+[ReactNative-url]: https://reactnative.dev
 [React]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-[React-url]: https://react.dev/
+[React-url]: https://react.dev
 [Expo]: https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37
-[Expo-url]: https://expo.dev/
+[Expo-url]: https://expo.dev
