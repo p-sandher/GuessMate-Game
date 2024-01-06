@@ -52,7 +52,7 @@ Introducing my molecule visualizer project, a full-stack application designed to
 ### Built With
 
 * [![ReactNative][ReactNative]][ReactNative-url]
-* [![ReactNative][ReactNative]][ReactNative-url]
+* [![React][React]][React-url]
 * [![Expo][Expo]][Expo-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
