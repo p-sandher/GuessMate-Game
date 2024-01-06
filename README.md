@@ -57,6 +57,23 @@ In this React Native and Expo-based project, I implemented a number-guessing gam
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Getting Started
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/)
+
+### Installation
+
+1. Clone the repository to your local machine:
+
+   ```
+   git clone https://github.com/your-username/your-repo.git
+   '''
+
 
 ## Example
 
