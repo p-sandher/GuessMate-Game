@@ -30,15 +30,13 @@
     <img src="puneet-sandher-logo.png" alt="Logo" width="200" height="200">
   </a>
 
-<h3 align="center">Puneet's Portfolio Website</h3>
+<h3 align="center">Guessmate Game</h3>
 
   <p align="center">
     <br />
     <a href="https://github.com/p-sandher/GuessMate-Game"><strong>Explore the Repo »</strong></a>
     <br />
     <br />
-    <a href="https://p-sandher.github.io/puneet-sandher-website/">View Website</a>
-
   </p>
 </div>
 
