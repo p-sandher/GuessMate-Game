@@ -1,4 +1,4 @@
-import {TextInput, View, VIew} from 'react-native';
+import {TextInput, View} from 'react-native';
 
 
 // Normal React Component
